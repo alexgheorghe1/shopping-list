@@ -4,3 +4,5 @@
 - eggs
 - fruit
 - chocolate
+- bread
+- pb&j
